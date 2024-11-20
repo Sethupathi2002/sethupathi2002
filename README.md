@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sethupathi-r-portfolio.netlify.app/](https://sethupathi-r-portfolio.netlify.app/)
 
-- 💬 Ask me about **html , css , javascript , react , mysql , java , spring , springboot **
+- 💬 Ask me about **html , css , javascript , react , mysql , java , spring , springboot**
 
 - 📫 How to reach me **vjsethu2002@gmail.com**
 
